@@ -1,7 +1,28 @@
-# Virtual-Assistant-Using-Python
-This Project is based on Python language. This is a Virtual Assistant name AnYa.
+# ANYA - The Voice Assistant
+ANYA is a voice assistant program developed in Python language. It is designed to perform various tasks such as setting reminders, answering questions, playing music, and more. It works similarly to popular voice assistants like Google Siri, Alexa, and Cortana.
 
-Virtual assistants can tremendously save your time. We spend hours in online research and then making the report in our terms of understanding. ANYA can do that for you. Provide a topic for research and continue with your tasks while ANYA does the research. 
-If you want to relax and wants to enjoy some music, just ask ANYA to play music and its done, music will be played from your music library.
+The program uses natural language processing (NLP) and speech recognition technologies to process the user's voice commands and perform the corresponding actions.
 
-One of the main advantages of voice searches is their rapidity. In fact, voice is reputed to be four times faster than a written search: whereas we can write about 40 words per minute, we can speak around 150 during the same period of time. In this respect, the ability of personal assistants to accurately recognize spoken words is a prerequisite for them to be adopted by consumers.
+### Features
+- Voice recognition and transcription
+- Setting reminders
+- Answering questions
+- Playing music
+- And more
+
+### Requirements
+The following libraries must be installed to run this project:
+
+- SpeechRecognition
+- PyAudio
+- gTTS
+- pygame
+
+### Usage
+To run the ANYA voice assistant, use the following command:
+```
+python main.py
+```
+
+### Note
+This project is intended for educational purposes and is still in development. Feel free to contribute and add more features to improve the functionality of the voice assistant.
